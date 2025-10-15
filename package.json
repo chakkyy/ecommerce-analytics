@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "config": {
+    "commitizen": {
+      "path": "@privatepackage/commit-prompt"
+    }
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --no-daemon",
+    "lint": "turbo run lint --parallel --force",
+    "lint:fix": "turbo lint:fix --parallel  --force",
+    "clean": "turbo clean --parallel",
+    "start": "turbo run start",
+    "prepare": "husky install",
+    "commit": "git-cz"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "@privatepackage/commit-prompt": "^1.1.0",
+    "@privatepackage/commitlint": "^1.1.1",
+    "commitizen": "^4.2.6",
+    "turbo": "^1.8.8",
+    "husky": "^7.0.1"
+  }
+}

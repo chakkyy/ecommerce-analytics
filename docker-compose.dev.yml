@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:12.12
+    ports:
+      - 5432:5432
+    networks:
+      ecommerce-analytics:
+        ipv4_address: 172.20.0.2
+    environment:
+      POSTGRES_DB: ''
+      POSTGRES_PASSWORD: ''
+  redis:
+    ports:
+      - 6379:6379
+    networks:
+      ecommerce-analytics:
+        ipv4_address: 172.20.0.3
+  api:
+    ports:
+      - 4000:4000
+    environment:
+      - DB_URL=http://localhost:5432
+      - REDIS_URL=redis://localhost:6379
+    networks:
+      ecommerce-analytics:
+        ipv4_address: 172.20.0.4
+    build:
+      dockerfile: ./Dockerfile.development
+      target: development
+    command: yarn start:dev
+    volumes:
+      - ./packages/api:/api
+      - /api/node_modules
+      - /api/dist
+    depends_on:
+      - db
+      - redis
+  app:
+    ports:
+      - 3000:3000
+    networks:
+      ecommerce-analytics:
+        ipv4_address: 172.20.0.5
+    build:
+      dockerfile: ./Dockerfile.development
+      target: development
+    command: yarn dev
+    volumes:
+      - ./packages/dashboards:/app
+      - /app/node_modules
+      - /app/.next
+networks:
+  ecommerce-analytics:
+    name: ecommerce-analytics_network
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.20.0.0/24

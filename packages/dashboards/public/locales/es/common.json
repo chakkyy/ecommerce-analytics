@@ -1,0 +1,27 @@
+{
+  "SPANISH": "Español",
+  "ENGLISH": "Inglés",
+  "PORTUGUESE": "Portugués",
+  "WELCOME": "Inicio",
+  "LOGIN": "Login",
+  "RESET_PASS": "Restablecer contraseña",
+  "SELECT_PLACEHOLDER": "Seleccionar",
+  "NO_DATA_AVAILABLE": "Sin datos disponibles",
+  "HERO_TITLE": {
+    "DASHBOARD_EMPTY": "Dashboard_example",
+    "NEW_METRIC": "Nueva métrica",
+    "SEGMENTS": "Segmentos",
+    "NEW_USERS": "Nuevos clientes",
+    "RECIPES": "Recetas"
+  },
+  "HERO_SUBTITLE": {
+    "NEW_USERS": "Usuarios que han realizado su primera compra en el último año"
+  },
+  "HERO_TEXT_BUTTON": {
+    "DASHBOARD_EMPTY": "Invitar usuarios"
+  },
+  "INVITE_USERS_SETTINGS": {
+    "SELECT_DASHBOARD": "Selecciona Dashboard",
+    "SUB_SELECT_DASHBOARD": "Elige a que tablero quieres enviar invitaciones para tu colaboradores."
+  }
+}

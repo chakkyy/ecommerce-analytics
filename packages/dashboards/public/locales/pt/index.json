@@ -1,0 +1,11 @@
+{
+  "WELCOME": "Início",
+  "LOGIN": "Login",
+  "RESET_PASS": "Redefinir senha",
+  "COMPANY_SIGNUP": "Cadastro da empresa",
+  "COMPANY_DESC": "Esta ferramenta permite medir e otimizar o desempenho do seu E-Commerce em termos de produtividade, eficiência e rentabilidade.",
+  "SIGN_UP": "Cadastrar",
+  "SIGN_IN_COLLABORATOR": "Entrar como colaborador",
+  "COLLABORATOR_DESC": "Entre como um colaborador da empresa para visualizar métricas e painéis específicos para cada área.",
+  "SIGN_IN": "Entrar"
+}

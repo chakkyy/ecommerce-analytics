@@ -1,0 +1,27 @@
+{
+  "SPANISH": "Spanish",
+  "ENGLISH": "English",
+  "PORTUGUESE": "Portuguese",
+  "WELCOME": "Inicio",
+  "LOGIN": "Login",
+  "RESET_PASS": "Restore password",
+  "SELECT_PLACEHOLDER": "Select",
+  "NO_DATA_AVAILABLE": "No data available",
+  "HERO_TITLE": {
+    "DASHBOARD_EMPTY": "Dashboard_example",
+    "NEW_METRIC": "New metric",
+    "SEGMENTS": "Segments",
+    "NEW_USERS": "New clients",
+    "RECIPES": "Recipes"
+  },
+  "HERO_SUBTITLE": {
+    "NEW_USERS": "Users who have made their first purchase in the last year"
+  },
+  "HERO_TEXT_BUTTON": {
+    "DASHBOARD_EMPTY": "Invite users"
+  },
+  "INVITE_USERS_SETTINGS": {
+    "SELECT_DASHBOARD": "Select Dashboard",
+    "SUB_SELECT_DASHBOARD": "Choose which board you want to send invites to for your collaborators."
+  }
+}

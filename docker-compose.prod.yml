@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  redis:
+    container_name: ecommerce-analytics_redis_prod
+    ports:
+      - 8010:6379
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+  api:
+    container_name: ecommerce-analytics_api_prod
+    ports:
+      - 8012:4000
+    environment:
+      - REDIS_URL=redis://redis:6379
+    build:
+      dockerfile: ./Dockerfile
+    env_file:
+      - './packages/api/.env'
+    restart: unless-stopped
+  app:
+    container_name: ecommerce-analytics_app_prod
+    ports:
+      - 8013:3000
+    build:
+      dockerfile: ./Dockerfile
+    restart: unless-stopped
+
+volumes:
+  redis_data:

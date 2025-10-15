@@ -1,0 +1,300 @@
+{
+  "CREATE_DASHBOARD": "Criar Painel",
+  "INVITE_USERS": "Convidar Usuários",
+  "EMPTY_STATE_DESCRIPTION": "Você ainda não vinculou sua loja virtual. Faça isso para começar a obter informações e criar seus painéis.",
+  "SYNC_ECOMMERCE": "Vincular Loja Virtual",
+  "COMPLETE_PROFILE": "Complete seu perfil",
+  "CREATE_DASHBOARD_DESC": "Você ainda não criou nenhum painel. Crie um para começar a visualizar todos os seus dados e informações.",
+  "CREATE_NEW_DASHBOARD": "Criar Novo Painel",
+  "NEW_DASHBOARD": "Novo Painel",
+  "NAME": "Nome",
+  "DESC": "Descrição",
+  "CONFIRM": "Confirme",
+  "CANCEL": "Cancelar",
+  "APPLY": "Aplicar",
+  "CREATE": "Criar",
+  "CREATING": "Criando",
+  "SKIP": "Pular",
+  "SEND_INVITE": "Enviar Convite",
+  "SENDING": "Enviando",
+  "CLEAN_FILTERS": "Limpar Filtros",
+  "PLACEHOLDER": {
+    "MARKETING_INFO": "Informações para a equipe de Marketing"
+  },
+  "REQUIRED": {
+    "TITLE": "Por favor, insira um título para o seu painel"
+  },
+  "LABEL": {
+    "INVITE_USERS": "Convidar membros para o painel"
+  },
+  "MODAL_EMPTY": {
+    "TITLE": " Comece a adicionar métricas para ver seus dados refletidos.",
+    "TEXT_BUTTON": "Adicionar nova métrica"
+  },
+  "DASHBOARD_CREATED": "O painel foi criado com sucesso",
+  "DASHBOARD_TITLE": "Dashboard",
+  "ADD_METRIC": "Adicionar Métrica",
+  "SIDEBAR": {
+    "DASHBOARDS": "Dashboards",
+    "SEGMENTS": "Segmentos",
+    "RECIPES": "Receitas",
+    "MARKETING_ACTIONS": "Ações de Marketing",
+    "ROLES_AND_PERMISSIONS": "Funções e Permissões",
+    "ROLES": "Funções",
+    "PERMISSIONS": "Permissões",
+    "STORE": "Loja física",
+    "LOGOUT": "Sair",
+    "SETTINGS": "Contexto",
+    "PERSONAL_DATA": "Dados Pessoais",
+    "COMPANY_DATA": "Dados da Empresa",
+    "STORE_TYPE": "Tipo de Loja",
+    "INVITE_USERS": "Convite de Usuários"
+  },
+  "DATEPICKER": {
+    "PERIODO": "Período",
+    "DATES": "Datas:",
+    "OPTION_LASTWEEK": "Esta semana",
+    "OPTION_LASTTWOWEEKS": "Últimas duas semanas",
+    "OPTION_LASTMONTH": "Último mês",
+    "OPTION_LASTSIXMONTHS": "Últimos seis meses",
+    "OPTION_LASTYEAR": "Ano passado",
+    "OPTION_CHOOSE": "Escolher",
+    "RESTORE_FILTERS": "Restaurar filtros",
+    "CANCEL": "Cancelar",
+    "APPLY": "Aplicar"
+  },
+  "METRICS": {
+    "KPI": {
+      "MODAL": {
+        "TITLE": "Excluir Gráfico?",
+        "DESC": "Esta ação não pode ser desfeita.",
+        "CONFIRM": "Excluir",
+        "CANCEL": "Cancelar"
+      },
+      "STORE_ORDERS_BY_CLIENT": {
+        "TITLE": "Clientes que geraram pedidos",
+        "TEXT_TOOLTIP": "Clientes que geraram pedidos em um período específico"
+      },
+      "STORE_FREQUENT_CLIENTS_QUANTITY": {
+        "TITLE": "Clientes existentes",
+        "TEXT_TOOLTIP": "Número de clientes existentes que fizeram uma compra no período especificado, nas lojas especificadas"
+      },
+      "STORE_NEW_CLIENTS_QUANTITY": {
+        "TITLE": "Clientes novos",
+        "TEXT_TOOLTIP": "Número de clientes que fizeram sua primeira compra em um período específico, nas lojas especificadas"
+      },
+      "STORE_CLIENTS_QUANTITY": {
+        "TITLE": "Quantidade de clientes",
+        "TEXT_TOOLTIP": "Quantidade de clientes em um período específico"
+      },
+      "STORE_ORDERS_QUANTITY": {
+        "TITLE": "Quantidade de pedidos",
+        "TEXT_TOOLTIP": "Quantidade de pedidos em um período específico"
+      },
+      "STORE_ORDERS_TOTAL": {
+        "TITLE": "Vendas totais por segmento",
+        "TEXT_TOOLTIP": "Total de vendas por segmento geradas em um período específico"
+      },
+      "STORE_ORDERS_TOTAL_NET": {
+        "TITLE": "Vendas totais",
+        "TEXT_TOOLTIP": "Total de vendas geradas em um período específico"
+      },
+      "STORE_CONVERSION_RATE": {
+        "TITLE": "Conversões",
+        "TEXT_TOOLTIP": "Vendas em um período específico"
+      },
+      "STORE_TOTAL_SALES": {
+        "TITLE": "Vendas totais",
+        "TEXT_TOOLTIP": "Vendas totais em um período específico"
+      },
+      "STORE_SQUARE_METER_SALES": {
+        "TITLE": "Vendas por metro quadrado",
+        "TEXT_TOOLTIP": "Vendas por metro quadrado em um período específico"
+      },
+      "STORE_DISTRIBUTION_COST": {
+        "TITLE": "Custo de distribuição",
+        "TEXT_TOOLTIP": "Custo de distribuição em um período específico"
+      },
+      "STORE_TOTAL_COST": {
+        "TITLE": "Custo total",
+        "TEXT_TOOLTIP": "Custo total em um período específico"
+      },
+      "STORE_AVAILABLE_INVENTORY": {
+        "TITLE": "Inventário disponível",
+        "TEXT_TOOLTIP": "Inventário disponível em um período específico"
+      },
+      "STORE_SUPPLY_CHAIN_EFFICIENCY": {
+        "TITLE": "Eficiência da cadeia de Suprimentos",
+        "TEXT_TOOLTIP": "Eficiência da cadeia de Suprimentos em um período específico"
+      },
+      "STORE_STOCK_DEPLETION_RATE": {
+        "TITLE": "Taxa de esgotamento de estoque",
+        "TEXT_TOOLTIP": "Taxa de esgotamento de estoque em um período específico"
+      },
+      "STORE_GROSS_MARGIN": {
+        "TITLE": "Margem bruta",
+        "TEXT_TOOLTIP": "Margem bruta em um período específico"
+      },
+      "STORE_NET_PROFITABILITY": {
+        "TITLE": "Rentabilidade líquida",
+        "TEXT_TOOLTIP": "Rentabilidade líquida em um período específico"
+      },
+      "STORE_ROI": {
+        "TITLE": "ROI",
+        "TEXT_TOOLTIP": "ROI em um período específico"
+      },
+      "STORE_INVENTORY_ROTATION": {
+        "TITLE": "Rotação de estoque",
+        "TEXT_TOOLTIP": "Rotação de estoque em um período específico"
+      },
+      "STORE_DISCOUNT_RATE": {
+        "TITLE": "Taxa de desconto",
+        "TEXT_TOOLTIP": "Taxa de desconto em um período específico"
+      },
+      "STORE_PRODUCT_RETURN_RATE": {
+        "TITLE": "Taxa de devolução do produtos",
+        "TEXT_TOOLTIP": "Taxa de devolução do produtos em um período específico"
+      },
+      "STORE_AVERAGE_TICKET": {
+        "TITLE": "Tíquete médio",
+        "TEXT_TOOLTIP": "Tíquete médio number em um período específico"
+      },
+      "CART_ABANDONMENT_RATE": {
+        "TITLE": "Carrinho T. Abandono",
+        "TEXT_TOOLTIP": "Número de carrinhos abandonados no último mês"
+      },
+      "AVERAGE_ORDER_VALUE": {
+        "TITLE": "Tíquete médio",
+        "TEXT_TOOLTIP": "Número ticket médio em um período específico"
+      },
+      "TRANSACTION_REVENUE": {
+        "TITLE": "Receita de Transação",
+        "TEXT_TOOLTIP": "Receita por transação no último mês"
+      },
+      "TOTAL_REVENUE": {
+        "TITLE": "Rendimento total",
+        "TEXT_TOOLTIP": "Receita total no mês passado"
+      },
+      "NUMBER_OF_PAGE_VIEWED": {
+        "TITLE": "Nº de páginas visitadas",
+        "TEXT_TOOLTIP": "Número de páginas visitadas no último mês"
+      },
+      "BOUNCE_RATE": {
+        "TITLE": "Taxa de rejeição",
+        "TEXT_TOOLTIP": "Taxa de rejeição do mês passado"
+      },
+      "NUMBER_OF_UNIQUE_VISITORS": {
+        "TITLE": "Visitantes únicos",
+        "TEXT_TOOLTIP": "Número único de visitantes no último mês"
+      },
+      "CUSTOMER_SATISFACTION_RATE": {
+        "TITLE": "Taxa de Satisfação",
+        "TEXT_TOOLTIP": "Taxa de satisfação em um período específico"
+      },
+      "REFERRED_TRAFFIC_PERCENTAGE": {
+        "TITLE": "Tráfego Referido",
+        "TEXT_TOOLTIP": "Tráfego referenciado em um período específico"
+      },
+      "GA_SESSIONS": {
+        "TITLE": "Sessões",
+        "TEXT_TOOLTIP": "Nº de sessões em um período específico"
+      },
+      "GA_USERS": {
+        "TITLE": "Usuários visitantes",
+        "TEXT_TOOLTIP": "Usuários visitantes em um período específico"
+      },
+      "GA_SESSIONS_PER_REFERRAL": {
+        "TITLE": "Sessões por Indicação",
+        "TEXT_TOOLTIP": "Sessões por indicação em um período específico"
+      },
+      "GA_SALES_PER_USERS": {
+        "TITLE": "Vendas por usuário",
+        "TEXT_TOOLTIP": "Vendas por usuário em um período específico"
+      }
+    },
+    "LINE": {
+      "SEGMENT_VALUE": {
+        "TITLE": "Receitas por segmento",
+        "TEXT_TOOLTIP": "Receita por segmento no último mês"
+      },
+      "SEGMENT_REVENUE": {
+        "TITLE": "Receitas por segmento",
+        "TEXT_TOOLTIP": "Receita por segmento no último mês"
+      },
+      "STORE_TOTAL_SALES": {
+        "TITLE": "Vendas totais",
+        "TEXT_TOOLTIP": "Vendas totais em um período específico"
+      },
+      "STORE_ROI": {
+        "TITLE": "ROI",
+        "TEXT_TOOLTIP": "Retorno do investimento no último mês"
+      },
+      "STORE_SUPPLY_CHAIN_EFFICIENCY": {
+        "TITLE": "Eficiência da cadeia de suprimentos",
+        "TEXT_TOOLTIP": "Horas que decorrem desde a criação de um produto até à sua venda, num determinado período"
+      }
+    },
+    "DOUGHNUT": {
+      "SEGMENT_VALUE": {
+        "TITLE": "Receitas por segmento",
+        "TEXT_TOOLTIP": "Receita por segmento no último mês"
+      },
+      "USERS_BY_SEGMENT": {
+        "TITLE": "Usuários por segmento",
+        "TEXT_TOOLTIP": "Número de usuários por segmento. Métrica não afetada pelo filtro de data"
+      },
+      "REVENUE_PER_CUSTOMER": {
+        "TITLE": "Receita por cliente",
+        "TEXT_TOOLTIP": "Receita por cliente no último mês"
+      },
+      "STORE_TOTAL_COST": {
+        "TITLE": "Custo total",
+        "TEXT_TOOLTIP": "Custo total em um período específico"
+      }
+    },
+    "TABLE": {
+      "DATE": "Data",
+      "PRICE": "Preço",
+      "STATUS": "Status",
+      "NEW_ORDER": "Novo Pedido",
+      "ON_ROUTE": "Em Rota",
+      "DELIVERED": "Entregue",
+      "PROCESSING": "Processando",
+      "ORDERS": {
+        "TITLE": "Pedidos",
+        "TEXT_TOOLTIP": "Pedidos no último mês"
+      },
+      "STATUSES": {
+        "APPROVED": "Aprovado",
+        "INVOICED": "Facturado",
+        "SHIPPED": "Enviado",
+        "DELIVERED": "Entregue",
+        "PAYMENT-PENDING": "Pagamento pendente",
+        "WINDOW-TO-CANCEL": "Janela para cancelar",
+        "HANDLING": "Despachando",
+        "READY-FOR-HANDLING": "Pronto para despachar",
+        "CANCELLATION-REQUESTED": "Pedido de cancelamento",
+        "CANCELED": "Cancelado",
+        "WAITING-FFMT-AUTHORIZATION": "Aguardando autorização",
+        "ORDER-CREATED": "Pedido criado",
+        "ORDER-ACCEPTED": "Pedido aceito",
+        "CANCEL": "Cancelar",
+        "ON-ORDER-COMPLETED": "Em ordem concluída",
+        "ON-ORDER-COMPLETED-FFM": "Em ordem concluída FFM",
+        "PAYMENT-APPROVED": "Pagamento aprovado",
+        "REQUEST-CANCEL": "Solicitar cancelamento",
+        "WINDOW-TO-CHANGE-PAYMENT": "Janela para alterar pagamento",
+        "WINDOW-TO-CHANGE-SELLER": "Janela para alterar vendedor",
+        "WAITING-FOR-AUTHORIZATION": "Aguardando autorização",
+        "WAITING-FOR-FULFILLMENT": "Aguardando cumprimento",
+        "WAITING-FOR-MANUAL-AUTHORIZATION": "Aguardando autorização manual",
+        "AUTHORIZE-FULFILLMENT": "Autorizar cumprimento",
+        "READY-FOR-INVOICING": "Pronto para faturação",
+        "INVOICE": "Fatura",
+        "START-HANDLING": "Iniciar manuseio",
+        "WAITING-FOR-MKT-AUTHORIZATION": "Aguardando autorização do MKT",
+        "WAITING-SELLER-HANDLING": "Aguardando manuseio do vendedor"
+      }
+    }
+  }
+}

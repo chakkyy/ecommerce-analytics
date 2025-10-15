@@ -1,0 +1,51 @@
+{
+  "STORE_TYPE_TITLE": "Store Type",
+  "STORE_TYPE_DESCRIPTION": "Link your Vtex E-Commerce or your physical store to obtain all the necessary information.",
+  "STORE_VTEX_OPTION": "Vtex",
+  "STORE_OPTION": "Store",
+  "SELECT_BUTTON": "Select",
+  "STORE_TITLE": "Store",
+  "STORE_EMPTY_DESCRIPTION": "If you have a physical store and would like to obtain metrics about your movements, upload a template to start receiving information about your business.",
+  "STORE_EMPTY_BUTTON": "Choose template",
+  "UPLOAD_FILE_BUTTON": "Upload file",
+  "STORE_DASHBOARD_BUTTON": "View Dashboard",
+
+  "SELECT_TEMPLATE": {
+    "TITLE": "Select Template",
+    "DOWNLOAD_TEMPLATE_TITLE": "Download Template"
+  },
+
+  "UPLOAD_FILE": {
+    "TITLE": "Upload File",
+    "RADIO_BTN_NEW_UPLOAD": "Upload the file from scratch",
+    "RADIO_BTN_UPLOAD": "Update existing file with new information"
+  },
+
+  "DATA_TABLE": {
+    "NUMBER": "Number",
+    "NAME": "Name",
+    "TEMPLATE": "Template",
+    "PROCESSED_LINES": "Processed Lines",
+    "SIZE": "Size",
+    "STATUS": "Status",
+    "NAME_DATA": "Template_example",
+    "TEMPLATE_ECOMMERCE": "E-Commerce",
+    "TEMPLATE_CART": "Abandoned Cart",
+    "TEMPLATE_SALES": "Sales",
+    "TEMPLATE_CUSTOMERS": "Customers"
+  },
+
+  "STATUS": {
+    "COMPLETE_WITH_ERRORS": "Complete with errors",
+    "PENDING": "Pending",
+    "ERROR": "Error: not processed",
+    "COMPLETE": "Complete",
+    "PROCESSING": "Processing"
+  },
+  "STORE_DROPDOWN": {
+    "STORES": "Stores",
+    "ALL_STORES": "All stores",
+    "SEARCH": "Search",
+    "UNDO_SELECT": "Undo select"
+  }
+}

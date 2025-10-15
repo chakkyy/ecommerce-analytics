@@ -1,0 +1,18 @@
+{
+  "PREVIEW": "Preview",
+  "BUTTON_CANCEL": "Cancelar",
+  "BUTTON_UPLOAD": "Subir",
+  "BUTTON_REMOUNT": "Volver a subir",
+  "ALERT_TEXT": "Algunos de los datos ingresados no son correctos o no se encuentran completos dentro del archivo. Por favor, realiza las correcciones correspondientes si no quieres ver estos errores reflejados en el procesamiento delarchivo.",
+  "TABLE": {
+    "USER": "Usuario",
+    "AMOUNT": "Cantidad",
+    "DATE": "Fecha",
+    "BUSINESS": "Negocio",
+    "NUMBER_ID": "Número ID",
+    "MONTH": "Mes",
+    "PHONE": "Teléfono",
+    "ADDRESS": "Dirección",
+    "SCHEDULE": "Horario"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "SEGMENTS": "Segmentos",
+  "NAME": "Nome",
+  "DESCRIPTION": "Descrição",
+  "CHAMPIONS": "Campeões",
+  "BIG_SPENDERS": "Grandes Compradores",
+  "FREQUENT_SHOPPERS": "Compradores Frequentes",
+  "OCCASIONAL_SHOPPERS": "Compradores Ocasionais",
+  "NEW_CUSTOMERS": "Novos Clientes",
+  "ASLEEP_CUSTOMERS": "Clientes Dormindo",
+  "INACTIVE_CUSTOMERS": "Clientes Inativos",
+  "CHAMPIONS_DESCRIPTION": "Eles são os mais leais e valiosos para o negócio. Eles fazem compras frequentes e gastam quantias significativas em cada transação.",
+  "BIG_SPENDERS_DESCRIPTION": "Eles têm alto valor em termos de valor de compra, mas sua frequência de compra pode ser menor.",
+  "FREQUENT_SHOPPERS_DESCRIPTION": "Eles fazem compras frequentes, mas não necessariamente gastam grandes quantias em cada transação.",
+  "OCCASIONAL_SHOPPERS_DESCRIPTION": "Eles compram esporadicamente e geralmente gastam quantias moderadas.",
+  "NEW_CUSTOMERS_DESCRIPTION": "Eles fizeram uma ou poucas compras em um curto espaço de tempo.",
+  "ASLEEP_CUSTOMERS_DESCRIPTION": "Eles não fizeram nenhuma compra em um curto espaço de tempo.",
+  "INACTIVE_CUSTOMERS_DESCRIPTION": "Eles não fazem nenhuma compra há muito tempo.",
+  "SEGMENT_DETAIL": {
+    "TITLE": "Grandes Compradores",
+    "SUBTITLE": "Eles têm alto valor em termos de valor de compra, mas sua frequência de compra pode ser menor.",
+    "TITLE_SEGMENT_DETAIL": "Detalhes do segmento",
+    "DOWNLOAD_BUTTON": "Baixar .csv",
+    "TITLE_RECIPE_PRODUCTS": "Receitas de produtos",
+    "TOTAL_RECORDS": "Registros totais",
+    "TABLE": {
+      "NAME": "Nome do cliente",
+      "EMAIL": "Email",
+      "PHONE": "Telefone",
+      "LAST_PURCHASE": "Última compra",
+      "EMAIL_DATA": "example@gmail.com",
+      "PHONE_DATA": "011-2324-5847",
+      "LAST_PURCHASE_DATA": "22 de junho de 23"
+    },
+
+    "DATA_RECIPE_PRODUCTS": {
+      "TITLE_PRODUCTS": "Produtos",
+      "DASHBOARD_BUTTON": "Adicionar a um painel",
+      "CATEGORY": "Conversiones",
+      "DESCRIPTION": "El porcentaje de visitantes que realizan una compra en la tienda en línea.",
+      "CATEGORY_1": "Costos por transacción",
+      "DESCRIPTION_1": "El promedio de costos asociados con cada transacción en la tienda en línea.",
+      "CATEGORY_2": "Costos totales",
+      "DESCRIPTION_2": "El total de costos asociados con la operación de la tienda en línea.",
+      "CATEGORY_3": "Ingreso medio por cliente",
+      "DESCRIPTION_3": "El total de costos asociados con la operación de la tienda en línea."
+    },
+
+    "DATA_MODAL": {
+      "TITLE_MODAL": "Selecione Dashboard",
+      "TITLE_DROPDOWN": "Dashboard",
+      "ITEM_DROPDOWN": "Dashboard_example",
+      "SELECT_PLACEHOLDER": "Seleccionar"
+    }
+  }
+}

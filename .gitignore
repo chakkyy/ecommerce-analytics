@@ -1,0 +1,13 @@
+node_modules
+api/Dockerfile
+app/Dockerfile
+db
+
+.turbo
+yarn-error.log
+
+build/**
+dist/**
+.next/**
+
+packages/api/public/**

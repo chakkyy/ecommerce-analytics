@@ -1,0 +1,27 @@
+{
+  "SPANISH": "Espanhol",
+  "ENGLISH": "Inglês",
+  "PORTUGUESE": "Português",
+  "WELCOME": "Início",
+  "LOGIN": "Entrar",
+  "RESET_PASS": "Redefinir senha",
+  "SELECT_PLACEHOLDER": "Seleccionar",
+  "NO_DATA_AVAILABLE": "Sem dados disponíveis",
+  "HERO_TITLE": {
+    "DASHBOARD_EMPTY": "Dashboard_example",
+    "NEW_METRIC": "Nova métrica",
+    "SEGMENTS": "Segmentos",
+    "NEW_USERS": "Novos clientes",
+    "RECIPES": "Receitas"
+  },
+  "HERO_SUBTITLE": {
+    "NEW_USERS": "Usuários que fizeram sua primeira compra no ano passado"
+  },
+  "HERO_TEXT_BUTTON": {
+    "DASHBOARD_EMPTY": "Convidar usuários"
+  },
+  "INVITE_USERS_SETTINGS": {
+    "SELECT_DASHBOARD": "Selecionar Painel",
+    "SUB_SELECT_DASHBOARD": "Escolha para qual painel você deseja enviar convites para seus colaboradores."
+  }
+}

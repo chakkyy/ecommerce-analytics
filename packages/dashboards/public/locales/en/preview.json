@@ -1,0 +1,18 @@
+{
+  "PREVIEW": "Preview",
+  "BUTTON_CANCEL": "Cancel",
+  "BUTTON_UPLOAD": "Upload",
+  "BUTTON_REMOUNT": "Remount",
+  "ALERT_TEXT": "Some of the data entered is not correct or is not complete within the file. Please make the corresponding corrections if you do not want to see these errors reflected in the processing of the file.",
+  "TABLE": {
+    "USER": "User",
+    "AMOUNT": "Amount",
+    "DATE": "Date",
+    "BUSINESS": "Business",
+    "NUMBER_ID": "Number ID",
+    "MONTH": "Month",
+    "PHONE": "Phone",
+    "ADDRESS": "Address",
+    "SCHEDULE": "Schedule"
+  }
+}

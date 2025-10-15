@@ -1,0 +1,48 @@
+{
+  "RECIPE_CONVERSIONS": "Receta conversiones",
+  "METRIC": "Métrica",
+  "PRODUCT": "Productos",
+  "RECIPE": "Receta",
+  "GRAPHIC": "Gráfico",
+  "DATE": "Fecha",
+  "FILTER": "Filtro",
+  "TITLE": "Título",
+  "SERIES": "Serie",
+  "SEGMENT": "Segmento",
+  "COLOR_PALETTE": "Paleta de colores",
+  "CONVERSIONS": "Conversiones",
+
+  "DATE_DROPDOWN": {
+    "TODAY": "Hoy",
+    "LAST_7_DAYS": "Últimos 7 días",
+    "LAST_30_DAYS": "Últimos 30 días",
+    "LAST_6_MONTHS": "Últimos 6 meses",
+    "LAST_YEAR": "Últimos año"
+  },
+
+  "FILTER_DROPDOWN": {
+    "RANK_OF_TIME": "Rango de tiempo",
+    "COST_RANGE": "Rango de costo"
+  },
+
+  "SERIES_DROPDOWN": {
+    "TOP": "Arriba",
+    "BOTTOM": "Abajo",
+    "LEFT": "Izquierda",
+    "RIGHT": "Derecha"
+  },
+
+  "SEGMENT_DROPDOWN": {
+    "ALL": "Todos",
+    "USER_ABANDON": "Usuarios que abandonan la compra",
+    "USER_CART": "Usuarios que no llegan al carrito",
+    "USER_HOME": "Usuarios que se quedan en la Home",
+    "USER_CANCEL": "Usuarios que cancelan la compra",
+    "USER_QUICKLY": "Usuarios que abandonan el sitio rápidamente"
+  },
+
+  "BUTTON": {
+    "CANCEL": "Cancelar",
+    "ADD": "Agregar"
+  }
+}

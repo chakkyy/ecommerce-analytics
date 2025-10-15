@@ -1,0 +1,43 @@
+{
+  "TITLE_ALL": "Todas",
+  "PRODUCTS": "Productos",
+  "SALES": "Ventas",
+  "CATEGORIES": "Categorías",
+  "PURCHASES": "Compras",
+  "CUSTOMERS": "Clientes",
+
+  "TITLE_SUGGESTED": "Sugeridas",
+  "BEST_PRODUCTS": "Productos más vendidos",
+  "TOP_SELLERS": "Más vendidos",
+  "MAIN_CATEGORIES": "Categorías principales",
+  "NEW_CUSTOMERS": "Nuevos clientes",
+
+  "PRODUCT_RECIPES": {
+    "TITLE": "Recetas de Productos",
+
+    "CONVERSIONS": "Conversiones",
+    "CONVERSIONS_DESCRIPTION": "El porcentaje de visitantes que realizan una compra en la tienda en línea.",
+
+    "COSTS_PER_TRANSACTION": "Costos por transacción",
+    "COSTS_PER_TRANSACTION_DESCRIPTION": "El promedio de costos asociados con cada transacción en la tienda en línea.",
+
+    "TOTAL_COSTS": "Costos totales",
+    "TOTAL_COSTS_DESCRIPTION": "El total de costos asociados con la operación de la tienda en línea.",
+
+    "AVERAGE_REVENUE": "Ingreso medio por cliente",
+    "AVERAGE_REVENUE_DESCRIPTION": "El promedio de ingresos generados por cada cliente que realiza una compra en la tienda en línea.",
+
+    "SEGMENT_REVENUE": "Ingresos por segmento",
+    "SEGMENT_REVENUE_DESCRIPTION": "El promedio de ingresos generados por cada segmento que realiza una compra en la tienda en línea.",
+
+    "REVENUE_PER_TRANSACTION": "Ingresos por transacción",
+    "REVENUE_PER_TRANSACTION_DESCRIPTION": "El promedio de ingresos generados por cada transacción en la tienda en línea.",
+
+    "TOTAL_REVENUE": "Ingresos totales",
+    "TOTAL_REVENUE_DESCRIPTION": "El total de ingresos generados por la tienda en línea."
+  },
+  "BUTTON": {
+    "CANCEL": "Cancelar",
+    "ADD": "Agregar"
+  }
+}

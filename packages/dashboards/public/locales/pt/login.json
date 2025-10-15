@@ -1,0 +1,27 @@
+{
+  "EMAIL": "E-mail",
+  "PASSWORD": "Senha",
+  "RESET_PASSWORD": "Redefinir senha",
+  "FORGOT_PASSWORD": "Esqueceu sua senha?",
+  "REMEMBER_ACCOUNT": "Lembrar conta",
+  "SIGN_IN": "Entrar",
+  "SIGNIN_IN": "Entrando...",
+  "SIGN_IN_WITH_GOOGLE": "Entrar com o Google",
+  "SIGN_IN_COLLABORATOR": "Entrar como colaborador",
+  "COLLABORATOR": "Colaborador",
+  "WELCOME_MESSAGE": "Seja bem-vindo(a)",
+
+  "REQUIRED": {
+    "EMAIL": "Por favor, informe um endereço de e-mail",
+    "PASSWORD": "Por favor, informe uma senha"
+  },
+
+  "PATTERN": {
+    "EMAIL": "Por favor, informe um endereço de e-mail válido"
+  },
+
+  "ERRORS": {
+    "INVALID_CREDENTIALS": "E-mail ou senha inválidos",
+    "USER_NOT_EXISTS": "El usuário não existe"
+  }
+}

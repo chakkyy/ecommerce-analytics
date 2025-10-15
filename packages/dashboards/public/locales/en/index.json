@@ -1,0 +1,11 @@
+{
+  "WELCOME": "Home",
+  "LOGIN": "Login",
+  "RESET_PASS": "Reset password",
+  "COMPANY_SIGNUP": "Company sign up",
+  "COMPANY_DESC": "This tool will allow you to measure and optimize the performance of your E-Commerce in terms of productivity, efficiency and profitability.",
+  "SIGN_UP": "Sign up",
+  "SIGN_IN_COLLABORATOR": "Sign in as collaborator",
+  "COLLABORATOR_DESC": "Sign in as a company collaborator to view specific metrics and dashboards for each area.",
+  "SIGN_IN": "Sign in"
+}

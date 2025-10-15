@@ -1,0 +1,24 @@
+{
+  "EMAIL": "Correo electrónico",
+  "PASSWORD": "Contraseña",
+  "RESET_PASSWORD": "Restablecer contraseña",
+  "FORGOT_PASSWORD": "¿Olvidaste tu contraseña?",
+  "REMEMBER_ACCOUNT": "Recordar cuenta",
+  "SIGN_IN": "Ingresar",
+  "SIGNIN_IN": "Ingresando...",
+  "SIGN_IN_WITH_GOOGLE": "Ingresar con Google",
+  "SIGN_IN_COLLABORATOR": "Ingresar como colaborador",
+
+  "REQUIRED": {
+    "EMAIL": "Por favor ingresa una dirección de correo electrónico",
+    "PASSWORD": "Por favor ingresa una contraseña"
+  },
+
+  "PATTERN": {
+    "EMAIL": "Por favor ingresa una dirección de correo electrónico válida"
+  },
+  "ERRORS": {
+    "INVALID_CREDENTIALS": "Correo electrónico o contraseña incorrectos",
+    "USER_NOT_EXISTS": "El usuario no existe"
+  }
+}

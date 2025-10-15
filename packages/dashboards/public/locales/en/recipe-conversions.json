@@ -1,0 +1,48 @@
+{
+  "RECIPE_CONVERSIONS": "Recipe conversions",
+  "METRIC": "Metric",
+  "PRODUCT": "Products",
+  "RECIPE": "Recipe",
+  "GRAPHIC": "Graphic",
+  "DATE": "Date",
+  "FILTER": "Filter",
+  "TITLE": "Title",
+  "SERIES": "Series",
+  "SEGMENT": "Segment",
+  "COLOR_PALETTE": "Color palette",
+  "CONVERSIONS": "Conversions",
+
+  "DATE_DROPDOWN": {
+    "TODAY": "Today",
+    "LAST_7_DAYS": "Last 7 days",
+    "LAST_30_DAYS": "Last 30 days",
+    "LAST_6_MONTHS": "Last 6 months",
+    "LAST_YEAR": "Last year"
+  },
+
+  "FILTER_DROPDOWN": {
+    "RANK_OF_TIME": "Rank of time",
+    "COST_RANGE": "Cost range"
+  },
+
+  "SERIES_DROPDOWN": {
+    "TOP": "TOP",
+    "BOTTOM": "BOTTOM",
+    "LEFT": "LEFT",
+    "RIGHT": "RIGHT"
+  },
+
+  "SEGMENT_DROPDOWN": {
+    "ALL": "All",
+    "USER_ABANDON": "Users who abandon the purchase",
+    "USER_CART": "Users that do not reach the cart",
+    "USER_HOME": "Users that stay in Home",
+    "USER_CANCEL": "Users who cancel the purchase",
+    "USER_QUICKLY": "Users leaving the site quickly"
+  },
+
+  "BUTTON": {
+    "CANCEL": "Cancel",
+    "ADD": "Add"
+  }
+}

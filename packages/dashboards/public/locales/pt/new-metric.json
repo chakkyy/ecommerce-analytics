@@ -1,0 +1,43 @@
+{
+  "TITLE_ALL": "Todos",
+  "PRODUCT": "Produtos",
+  "SALES": "Vendas",
+  "CATEGORIES": "Categorias",
+  "PURCHASES": "Compras",
+  "CUSTOMERS": "Clientes",
+
+  "TITLE_SUGGESTED": "Sugerido",
+  "BEST_PRODUCTS": "Produtos mais vendidos",
+  "TOP_SELLERS": "Mais vendidos",
+  "MAIN_CATEGORIES": "Principais categorias",
+  "NEW_CUSTOMERS": "Novos clientes",
+
+  "PRODUCT_RECIPES": {
+    "TITLE": "Receitas de Produtos",
+
+    "CONVERSIONS": "Conversões",
+    "CONVERSIONS_DESCRIPTION": "A porcentagem de visitantes que fazem uma compra na loja online.",
+
+    "COSTS_PER_TRANSACTION": "Custos por transação",
+    "COSTS_PER_TRANSACTION_DESCRIPTION": "Os custos médios associados a cada transação na loja online.",
+
+    "TOTAL_COSTS": "Custos totais",
+    "TOTAL_COSTS_DESCRIPTION": "Os custos totais associados ao funcionamento da loja online.",
+
+    "AVERAGE_REVENUE": "Receita média por cliente",
+    "AVERAGE_REVENUE_DESCRIPTION": "A receita média gerada por cada cliente que faz uma compra na loja online.",
+
+    "SEGMENT_REVENUE": "Receita do segmento",
+    "SEGMENT_REVENUE_DESCRIPTION": "A receita média gerada por cada segmento que faz uma compra na loja online.",
+
+    "REVENUE_PER_TRANSACTION": "Receita por transação",
+    "REVENUE_PER_TRANSACTION_DESCRIPTION": "A receita média gerada por cada transação na loja online.",
+
+    "TOTAL_REVENUE": "Receita total",
+    "TOTAL_REVENUE_DESCRIPTION": "A receita total gerada pela loja online."
+  },
+  "BUTTON": {
+    "CANCEL": "Cancelar",
+    "ADD": "Adicionar"
+  }
+}

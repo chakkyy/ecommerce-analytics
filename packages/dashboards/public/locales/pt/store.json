@@ -1,0 +1,52 @@
+{
+  "STORE_TYPE_TITLE": "Tipo de Loja",
+  "STORE_TYPE_DESCRIPTION": "Vincule seu Vtex E-Commerce ou sua loja física para obter todas as informações necessárias.",
+  "STORE_VTEX_OPTION": "Vtex",
+  "STORE_OPTION": "Loja física",
+  "SELECT_BUTTON": "Selecione",
+  "STORE_TITLE": "Loja Física",
+  "STORE_EMPTY_DESCRIPTION": "Se você tem uma loja física e gostaria de obter métricas sobre seus movimentos, faça o upload de um modelo para começar a receber informações sobre seu negócio.",
+  "STORE_EMPTY_BUTTON": "Escolha o template",
+  "UPLOAD_FILE_BUTTON": "Subir arquivo",
+  "STORE_DASHBOARD_BUTTON": "Exibir Dashboard",
+
+  "SELECT_TEMPLATE": {
+    "TITLE": "Selecione o Template",
+    "DOWNLOAD_TEMPLATE_TITLE": "Baixar Template"
+  },
+
+  "UPLOAD_FILE": {
+    "TITLE": "Subir Arquivo",
+    "RADIO_BTN_NEW_UPLOAD": "Carregar o arquivo do zero",
+    "RADIO_BTN_UPLOAD": "Atualize o arquivo existente com novas informações"
+  },
+
+  "DATA_TABLE": {
+    "NUMBER": "Número",
+    "NAME": "Nome",
+    "TEMPLATE": "Template",
+    "PROCESSED_LINES": "Linhas Processadas",
+    "SIZE": "Tamanho",
+    "STATUS": "Estado",
+    "NAME_DATA": "Template_example",
+    "TEMPLATE_DATA": "E-Commerce",
+    "TEMPLATE_ECOMMERCE": "E-Commerce",
+    "TEMPLATE_CART": "Abandoned Cart",
+    "TEMPLATE_SALES": "Sales",
+    "TEMPLATE_CUSTOMERS": "Customers"
+  },
+  "STATUS": {
+    "COMPLETE_WITH_ERRORS": "Completo com erros",
+    "PENDING": "Brinco",
+    "ERROR": "Erro: não processado",
+    "COMPLETE": "Completo",
+    "PROCESSING": "Em processamento"
+  },
+
+  "STORE_DROPDOWN": {
+    "STORES": "Lojas",
+    "ALL_STORES": "Todas las tiendas",
+    "SEARCH": "Procurar",
+    "UNDO_SELECT": "Desmarcar"
+  }
+}

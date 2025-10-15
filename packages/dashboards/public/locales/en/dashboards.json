@@ -1,0 +1,300 @@
+{
+  "CREATE_DASHBOARD": "Create Dashboard",
+  "INVITE_USERS": "Invite Users",
+  "EMPTY_STATE_DESCRIPTION": "You haven't linked your E-Commerce yet. Do it to start getting information and start creating your dashboards.",
+  "SYNC_ECOMMERCE": "Link E-commerce",
+  "COMPLETE_PROFILE": "Complete Profile",
+  "CREATE_DASHBOARD_DESC": "You don't have any dashboard created yet. Create one to start visualizing all your data and information.",
+  "CREATE_NEW_DASHBOARD": "Create new dashboard",
+  "NEW_DASHBOARD": "New Dashboard",
+  "NAME": "Name",
+  "DESC": "Description",
+  "CONFIRM": "Confirm",
+  "CANCEL": "Cancel",
+  "APPLY": "Apply",
+  "CREATE": "Create",
+  "CREATING": "Creating",
+  "SKIP": "Skip",
+  "SEND_INVITE": "Send Invite",
+  "SENDING": "Sending",
+  "CLEAN_FILTERS": "Clean Filters",
+  "PLACEHOLDER": {
+    "MARKETING_INFO": "Information for the Marketing team"
+  },
+  "REQUIRED": {
+    "TITLE": "Please enter a title for your dashboard"
+  },
+  "LABEL": {
+    "INVITE_USERS": "Invite members to dashboard"
+  },
+  "MODAL_EMPTY": {
+    "TITLE": "Start adding metrics to see your data reflected",
+    "TEXT_BUTTON": "Add new metric"
+  },
+  "DASHBOARD_CREATED": "The dashboard was created successfully",
+  "DASHBOARD_TITLE": "Dashboard",
+  "ADD_METRIC": "Add Metric",
+  "SIDEBAR": {
+    "DASHBOARDS": "Dashboards",
+    "SEGMENTS": "Segments",
+    "RECIPES": "Recipes",
+    "MARKETING_ACTIONS": "Marketing Actions",
+    "ROLES_AND_PERMISSIONS": "Roles and Permissions",
+    "ROLES": "Roles",
+    "PERMISSIONS": "Permissions",
+    "STORE": "Store",
+    "LOGOUT": "Logout",
+    "SETTINGS": "Settings",
+    "PERSONAL_DATA": "Personal Data",
+    "COMPANY_DATA": "Company Data",
+    "STORE_TYPE": "Store Type",
+    "INVITE_USERS": "Invite Users"
+  },
+  "DATEPICKER": {
+    "PERIOD": "Period",
+    "DATES": "Dates:",
+    "OPTION_LASTWEEK": "Last week",
+    "OPTION_LASTTWOWEEKS": "Last two weeks",
+    "OPTION_LASTMONTH": "Last month",
+    "OPTION_LASTSIXMONTHS": "Last six months",
+    "OPTION_LASTYEAR": "Last year",
+    "OPTION_CHOOSE": "Choose",
+    "RESTORE_FILTERS": "Restore filters",
+    "CANCEL": "Cancel",
+    "APPLY": "Apply"
+  },
+  "METRICS": {
+    "KPI": {
+      "MODAL": {
+        "TITLE": "Delete Chart?",
+        "DESC": "This action cannot be undone.",
+        "CONFIRM": "Delete",
+        "CANCEL": "Cancel"
+      },
+      "STORE_ORDERS_BY_CLIENT": {
+        "TITLE": "Clients who generated orders",
+        "TEXT_TOOLTIP": "Clients who generated orders in a specific period"
+      },
+      "STORE_FREQUENT_CLIENTS_QUANTITY": {
+        "TITLE": "Existing clients",
+        "TEXT_TOOLTIP": "Number of existing customers who have made a purchase in the specified period, at the specified stores"
+      },
+      "STORE_NEW_CLIENTS_QUANTITY": {
+        "TITLE": "New clients",
+        "TEXT_TOOLTIP": "Number of customers who have made their first purchase in a specified period, in the specified stores"
+      },
+      "STORE_CLIENTS_QUANTITY": {
+        "TITLE": "Clients quantity",
+        "TEXT_TOOLTIP": "Clients quantity in a specific period"
+      },
+      "STORE_ORDERS_QUANTITY": {
+        "TITLE": "Orders quantity",
+        "TEXT_TOOLTIP": "Orders quantity in a specific period"
+      },
+      "STORE_ORDERS_TOTAL": {
+        "TITLE": "Total sales by segment",
+        "TEXT_TOOLTIP": "Total sales by segment generated in a specific period"
+      },
+      "STORE_ORDERS_TOTAL_NET": {
+        "TITLE": "Total sales",
+        "TEXT_TOOLTIP": "Total sales generated in a specific period"
+      },
+      "STORE_CONVERSION_RATE": {
+        "TITLE": "Conversion Rate",
+        "TEXT_TOOLTIP": "Total sales revenue generated in a specific period"
+      },
+      "STORE_TOTAL_SALES": {
+        "TITLE": "Total Sales",
+        "TEXT_TOOLTIP": "Total sales revenue generated in a specific period"
+      },
+      "STORE_SQUARE_METER_SALES": {
+        "TITLE": "Sales per square meter",
+        "TEXT_TOOLTIP": "Total Sales / Sales Area (in square meters)"
+      },
+      "STORE_DISTRIBUTION_COST": {
+        "TITLE": "Distribution cost",
+        "TEXT_TOOLTIP": "Total expenses related to transportation and product storage in a given period"
+      },
+      "STORE_TOTAL_COST": {
+        "TITLE": "Total cost",
+        "TEXT_TOOLTIP": "Total expenses incurred in the business in a specific period"
+      },
+      "STORE_AVAILABLE_INVENTORY": {
+        "TITLE": "Available inventory",
+        "TEXT_TOOLTIP": "Quantity of products in stock"
+      },
+      "STORE_SUPPLY_CHAIN_EFFICIENCY": {
+        "TITLE": "Supply chain efficiency",
+        "TEXT_TOOLTIP": "Supply chain efficiency"
+      },
+      "STORE_STOCK_DEPLETION_RATE": {
+        "TITLE": "Stock depletion rate",
+        "TEXT_TOOLTIP": "(Out of stock products / Total inventory) x 100"
+      },
+      "STORE_GROSS_MARGIN": {
+        "TITLE": "Gross margin",
+        "TEXT_TOOLTIP": "Total Sales - Cost of Goods Sold (COGS)"
+      },
+      "STORE_NET_PROFITABILITY": {
+        "TITLE": "Net Profitability",
+        "TEXT_TOOLTIP": "(Revenue - Total Costs) / Revenue x 100"
+      },
+      "STORE_ROI": {
+        "TITLE": "ROI",
+        "TEXT_TOOLTIP": "(Return on Investment - Investment Cost) / Investment Cost x 100"
+      },
+      "STORE_INVENTORY_ROTATION": {
+        "TITLE": "Inventory rotation",
+        "TEXT_TOOLTIP": "Cost of Goods Sold (COGS) / Average Inventory"
+      },
+      "STORE_DISCOUNT_RATE": {
+        "TITLE": "Discount rate",
+        "TEXT_TOOLTIP": "(Total value of discounts / Total Sales) x 100"
+      },
+      "STORE_PRODUCT_RETURN_RATE": {
+        "TITLE": "Product return rate",
+        "TEXT_TOOLTIP": "(Quantity of returned products / Quantity of products sold) x 100"
+      },
+      "STORE_AVERAGE_TICKET": {
+        "TITLE": "Average Ticket",
+        "TEXT_TOOLTIP": "Total Sales / Number of transactions"
+      },
+      "CART_ABANDONMENT_RATE": {
+        "TITLE": "Cart Abandonment Rate",
+        "TEXT_TOOLTIP": "Number of abandoned carts in a specific period"
+      },
+      "AVERAGE_ORDER_VALUE": {
+        "TITLE": "Average Ticket",
+        "TEXT_TOOLTIP": "Average ticket number in a specific period"
+      },
+      "TRANSACTION_REVENUE": {
+        "TITLE": "Revenue per Transaction",
+        "TEXT_TOOLTIP": "Revenue per transaction in a specific period"
+      },
+      "TOTAL_REVENUE": {
+        "TITLE": "Total revenue",
+        "TEXT_TOOLTIP": "Total revenue in a specific period"
+      },
+      "NUMBER_OF_PAGE_VIEWED": {
+        "TITLE": "Number of page viewed",
+        "TEXT_TOOLTIP": "Number of page viewed in a specific period"
+      },
+      "BOUNCE_RATE": {
+        "TITLE": "Bounce Rate",
+        "TEXT_TOOLTIP": "Bounce rate in a specific period"
+      },
+      "NUMBER_OF_UNIQUE_VISITORS": {
+        "TITLE": "Unique visitors",
+        "TEXT_TOOLTIP": "Number of unique visitors the last month"
+      },
+      "CUSTOMER_SATISFACTION_RATE": {
+        "TITLE": "Satisfaction Rate",
+        "TEXT_TOOLTIP": "Satisfaction rate in a specific period"
+      },
+      "REFERRED_TRAFFIC_PERCENTAGE": {
+        "TITLE": "Referral Traffic",
+        "TEXT_TOOLTIP": "Referral traffic in a specific period"
+      },
+      "GA_SESSIONS": {
+        "TITLE": "Sessions",
+        "TEXT_TOOLTIP": "N. of sessions in a specific period"
+      },
+      "GA_USERS": {
+        "TITLE": "Visiting users",
+        "TEXT_TOOLTIP": "Visiting users in a specific period"
+      },
+      "GA_SESSIONS_PER_REFERRAL": {
+        "TITLE": "Sessions per Referral",
+        "TEXT_TOOLTIP": "Sessions per Referral in a specific period"
+      },
+      "GA_SALES_PER_USERS": {
+        "TITLE": "Sales per User",
+        "TEXT_TOOLTIP": "Sales per user in a specific period"
+      }
+    },
+    "LINE": {
+      "SEGMENT_VALUE": {
+        "TITLE": "Segment revenues",
+        "TEXT_TOOLTIP": "Revenue by segment in a specific period"
+      },
+      "SEGMENT_REVENUE": {
+        "TITLE": "Segment revenues",
+        "TEXT_TOOLTIP": "Revenue by segment in a specific period"
+      },
+      "STORE_TOTAL_SALES": {
+        "TITLE": "Total sales",
+        "TEXT_TOOLTIP": "Total sales revenue generated in a specific period"
+      },
+      "STORE_ROI": {
+        "TITLE": "ROI",
+        "TEXT_TOOLTIP": "(Return on Investment - Investment Cost) / Investment Cost x 100"
+      },
+      "STORE_SUPPLY_CHAIN_EFFICIENCY": {
+        "TITLE": "Supply chain efficiency",
+        "TEXT_TOOLTIP": "Hours from the time a product is created until it was sold, in a specific period"
+      }
+    },
+    "DOUGHNUT": {
+      "SEGMENT_VALUE": {
+        "TITLE": "Segment revenues",
+        "TEXT_TOOLTIP": "Revenue by segment in a specific period"
+      },
+      "USERS_BY_SEGMENT": {
+        "TITLE": "Users by segment",
+        "TEXT_TOOLTIP": "Number of users per segment. Metric not affected by date filter"
+      },
+      "REVENUE_PER_CUSTOMER": {
+        "TITLE": "Revenue per customer",
+        "TEXT_TOOLTIP": "Revenue by customer in a specific period"
+      },
+      "STORE_TOTAL_COST": {
+        "TITLE": "Total cost",
+        "TEXT_TOOLTIP": "Total expenses incurred in the business in a specific period"
+      }
+    },
+    "TABLE": {
+      "DATE": "Date",
+      "PRICE": "Price",
+      "STATUS": "Status",
+      "NEW_ORDER": "New Order",
+      "ON_ROUTE": "On Route",
+      "DELIVERED": "Delivered",
+      "PROCESSING": "Processing",
+      "ORDERS": {
+        "TITLE": "Orders",
+        "TEXT_TOOLTIP": "Orders in a specific period"
+      },
+      "STATUSES": {
+        "APPROVED": "Approved",
+        "INVOICED": "Invoiced",
+        "SHIPPED": "Shipped",
+        "DELIVERED": "Delivered",
+        "PAYMENT-PENDING": "Pending payment",
+        "WINDOW-TO-CANCEL": "Window to cancel",
+        "HANDLING": "Handling",
+        "READY-FOR-HANDLING": "Ready for handling",
+        "CANCELLATION-REQUESTED": "Cancellation requested",
+        "CANCELED": "Canceled",
+        "WAITING-FFMT-AUTHORIZATION": "Waiting authorization",
+        "ORDER-CREATED": "Order created",
+        "ORDER-ACCEPTED": "Order accepted",
+        "CANCEL": "Cancel",
+        "ON-ORDER-COMPLETED": "On order completed",
+        "ON-ORDER-COMPLETED-FFM": "On order completed FFM",
+        "PAYMENT-APPROVED": "Payment approved",
+        "REQUEST-CANCEL": "Request cancel",
+        "WINDOW-TO-CHANGE-PAYMENT": "Window to change payment",
+        "WINDOW-TO-CHANGE-SELLER": "Window to change seller",
+        "WAITING-FOR-AUTHORIZATION": "Waiting authorization",
+        "WAITING-FOR-FULFILLMENT": "Waiting fulfillment",
+        "WAITING-FOR-MANUAL-AUTHORIZATION": "Waiting manual authorization",
+        "AUTHORIZE-FULFILLMENT": "Authorize fulfillment",
+        "READY-FOR-INVOICING": "Ready for invoicing",
+        "INVOICE": "Invoice",
+        "START-HANDLING": "Start handling",
+        "WAITING-FOR-MKT-AUTHORIZATION": "Waiting MKT authorization",
+        "WAITING-SELLER-HANDLING": "Waiting seller handling"
+      }
+    }
+  }
+}
